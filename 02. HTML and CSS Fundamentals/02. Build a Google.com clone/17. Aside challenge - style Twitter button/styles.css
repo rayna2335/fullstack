@@ -8,3 +8,16 @@ border color: #cfd9de
 text color: #0f1419
 Remember the font-weight!
 */
+
+.follow-button {
+    border: 2px solid #cfd9de;
+    border-radius:20px;
+    color: #0f1419;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: white;
+    
+}

@@ -1,0 +1,43 @@
+<h1></h1>    Header 1 - large text
+
+<h2></h2>    Header 2 
+
+<h3></h3>    Header 3 
+
+<p></p>      Paragraph
+
+<img src="" width="">          Image Tag (self closing tag) with source to render and width to adjust the size to browser (recommended)\
+
+<div></div>     divider - and what ever that is inside is children
+
+<button></button>
+
+<input type="specify the type of input here (text, number, password, date, time, color, file)" placeholder="give user what data we are asking for">
+
+<a href="insert link here" target="_blank to open new tab"></a>     (links) Anchor tags - used to link to another page
+
+
+<!doctype html> Tells the browswer we are using HTML 5 - metadata for the browswer
+<html> this wraps everything </html>
+<head> This is where we add metadata (styles)</head>
+<body> This is used</body>
+
+<ol>Number Ordered List </ol>
+<ul>bullet points - Unordered List </ul>
+
+<li>List tag</li>
+
+selector - selects which tags it applies to (eg. body tag)
+
+
+body {    ---> selector
+    background: yellow;     --->     property: Value
+}
+
+
+hex codes uses RGB
+
+
+Display: inline -- displays item horizontally
+
+Display: block -- displays vertically (stacks on top)
